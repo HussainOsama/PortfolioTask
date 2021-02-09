@@ -1,0 +1,27 @@
+div {
+  background-color: #264653;
+  text-align: center;
+  height: 100vh;
+  padding: 40px;
+  padding-top: 200px;
+  margin: 0 20%;
+}
+
+h1,
+b {
+  color: #e76f51;
+}
+h3,
+a {
+  color: #2a9d8f;
+}
+
+.white {
+  color: white;
+}
+
+img {
+  height: 150px;
+  border-radius: 50%;
+  border: 5px solid #e76f51;
+}
